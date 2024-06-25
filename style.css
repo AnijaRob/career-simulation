@@ -1,6 +1,6 @@
 body{background-color:#A5CDF0ff}
 section{border-top:solid gray 2px;
-padding-bottom: 10px;}
+padding-bottom: 10px}
 main{background-color:seashell ;border-radius: 1px;
 padding-left: 50px;
 padding-top: 10px;
@@ -37,7 +37,7 @@ margin: 10px;
 top: 30px;
 }
 
-    
+    #home{padding: -20px;}
 
 
 
