@@ -1,0 +1,45 @@
+body{background-color:#A5CDF0ff}
+section{border-top:solid gray 2px;
+padding-bottom: 10px;}
+main{background-color:seashell ;border-radius: 1px;
+padding-left: 50px;
+padding-top: 10px;
+padding-right: 50px;
+padding-bottom: -50px;
+margin-bottom: 20px ;
+margin-top: 100px;
+margin-left:20px; 
+margin-right: 20px}
+#links{text-align: right;
+    color: #45A674ff; 
+    margin-bottom: 10px ;
+    margin-top: 10px;
+    margin-left:10px;
+    top:22px;
+    left:55%;
+    right: 60px;
+    position: absolute;
+    z-index:2;}
+
+#logo{border: solid black 10px;
+    background-color: midnightblue;
+    color: seashell; 
+    padding-left: 10px;
+    }
+
+    nav{position: fixed;
+    left: 0;
+    right:0;
+    top: 0;
+}
+img{float: right;
+margin: 10px;
+top: 30px;
+}
+
+    
+
+
+
+
+    
